@@ -1,8 +1,6 @@
 package com.frcteam3636.bunnybots26.robot
 
 import com.ctre.phoenix6.SignalLogger
-import com.frcteam3636.bunnybots26.subsystems.drivetrain.Drivetrain
-import com.frcteam3636.bunnybots26.subsystems.intake.Intake
 import com.revrobotics.util.StatusLogger
 import edu.wpi.first.wpilibj.Preferences
 import edu.wpi.first.wpilibj2.command.Commands

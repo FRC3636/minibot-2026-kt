@@ -1,6 +1,5 @@
 package com.frcteam3636.bunnybots26.utils.autos
 
-import com.frcteam3636.bunnybots26.subsystems.drivetrain.Drivetrain
 import com.frcteam3636.bunnybots26.utils.math.*
 import com.therekrab.autopilot.APTarget
 import edu.wpi.first.math.geometry.Pose2d
